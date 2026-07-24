@@ -1,0 +1,10 @@
+{
+  "name": "Lumina AI Tutor",
+  "description": "A high-fidelity GenAI tutor providing personalized learning across subjects with voice synthesis, interactive quizzes, and visual diagram generation.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
