@@ -49,7 +49,6 @@
 ### AI
 
 - Google Gemini API
-- Google AI Studio
 
 ### Deployment
 
