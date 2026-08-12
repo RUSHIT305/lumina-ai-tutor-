@@ -269,5 +269,5 @@ It helps support the project and encourages future development.
 ---
 
 <p align="center">
-Built with ❤️ using Google Gemini and Modern Web Technologies.
+Built with ❤️ using Google Gemini API and Modern Web Technologies.
 </p>
