@@ -58,32 +58,6 @@
 
 ---
 
-## 📂 Project Structure
-
-```
-lumina-ai-tutor/
-
-├── frontend/
-│   ├── src/
-│   ├── public/
-│   └── package.json
-│
-├── backend/
-│   ├── app/
-│   ├── api/
-│   ├── services/
-│   ├── models/
-│   └── requirements.txt
-│
-├── assets/
-├── docs/
-├── .env.example
-├── Dockerfile
-├── README.md
-└── LICENSE
-```
-
----
 
 # 🚀 Getting Started
 
